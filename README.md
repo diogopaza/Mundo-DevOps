@@ -19,9 +19,13 @@
   <li>sudo systemctl start</li>
   <li>sudo systemctl status ssh</li>  
 </ul>
-
-
 </p>
+
+<h3>Comandos uteis:</h3>
+<ul>
+  <li>top == lista todos os processos sem execucao</li>
+  
+</ul>
 
 <h2>Anotações</h2>
   <p>Importante notar que ao usar uma maquina virtual e atraves da opcao dispositivos e depois rede e definindo modo bridge e possivel usar obter um ip dentro da faixa na qual e usado na maquina local, com isso facilitando o acesso a VM.</p>
