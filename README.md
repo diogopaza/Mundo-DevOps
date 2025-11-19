@@ -27,5 +27,8 @@
   
 </ul>
 
+<h3>Agendando tarefas</h3>
+<p></p>
+
 <h2>Anotações</h2>
   <p>Importante notar que ao usar uma maquina virtual e atraves da opcao dispositivos e depois rede e definindo modo bridge e possivel usar obter um ip dentro da faixa na qual e usado na maquina local, com isso facilitando o acesso a VM.</p>
