@@ -33,5 +33,11 @@
 <h3>Agendando tarefas</h3>
 <p>Com o comando crontab -e e aberto um arquivo onde e possivel configurar o agendamento de scripts para serem executados no Linux. E necessario instalar o pacote cron - apt get install cron</p>
 
+<h4>Exercicio final</h4>h4>
+<p>
+  Para aplicar conhecimentos do curso <emph>DevOps: explorando conceitos, comandos e scripts no Linux CLI da plataforma ALURA.</emph>
+  <p>O exercicio pede para copiar/backup da pasta D:\diogo do computador local e salvar no servidor SSH, deve-se criar um Script usando agendamento e monitoramento para acompanhar se o processo ocorreu corretamente.</p>
+</p>
+
 <h2>Anotações</h2>
   <p>Importante notar que ao usar uma maquina virtual e atraves da opcao dispositivos e depois rede e definindo modo bridge e possivel usar obter um ip dentro da faixa na qual e usado na maquina local, com isso facilitando o acesso a VM.</p>
