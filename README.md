@@ -5,6 +5,7 @@
   <ul>
     <li>pwd == mostra diretorio atual</li>
     <li>ip address == para verificar o endereço ip</li>
+    <li>crontab -e == abre o agendador de tarefas</li>
   </ul>
   
 </p>
