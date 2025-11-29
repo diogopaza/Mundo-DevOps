@@ -27,6 +27,7 @@
   <li>top == lista todos os processos sem execucao</li>
   <li>ps aux = lista todos os processos em execucao</li>
   <li>tail -f = ve ao vivo - tempo real atualizacoes em um arquivo</li>
+  <li>curl -I https://nomeDaPagina == retonra os headers da resposta</li>
 
   
 </ul>
