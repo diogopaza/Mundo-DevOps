@@ -1,5 +1,10 @@
 # Mundo-DevOps
 
+<h2>Git</h2>
+<ul>
+  <li><a href="https://www.toptal.com/developers/gitignore/">gitignore.io</a>==  um site chamado gitignore.io no qual você pode especificar qual é a tecnologia usada em seu projeto e ele gera automaticamente um arquivo .gitignore contendo os principais tipos de arquivos e diretórios que devem ser ignorados nesse contexto. </li>
+</ul>
+
 <h2>Comando Linux:</h2>
 <p>
   <ul>
