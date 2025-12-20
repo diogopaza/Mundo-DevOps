@@ -5,6 +5,9 @@
   <li><a href="https://www.toptal.com/developers/gitignore/">gitignore.io</a>==  um site chamado gitignore.io no qual você pode especificar qual é a tecnologia usada em seu projeto e ele gera automaticamente um arquivo .gitignore contendo os principais tipos de arquivos e diretórios que devem ser ignorados nesse contexto. </li>
 </ul>
 
+<h2>Exercicio CI/CD com Spring e Github Actions</h2>
+<p>Este exercicio tem como foco aprofundar conhecimentos e testes que estao sendo obtidos no curso da Alura: DevOps: trabalhando com repositórios no GitHub. Este exercicio tem um repositorio proprio: <a href="https://github.com/diogopaza/Spring-Github-Actions">repositorio exercicio Spring + GitHub Actions</a></p>
+
 <h2>Comando Linux:</h2>
 <p>
   <ul>
