@@ -8,8 +8,9 @@
 <h2>Exercicio CI/CD com Spring e Github Actions</h2>
 <p>Este exercicio tem como foco aprofundar conhecimentos e testes que estao sendo obtidos no curso da Alura: DevOps: trabalhando com repositórios no GitHub. Este exercicio tem um repositorio proprio: <a href="https://github.com/diogopaza/Spring-Github-Actions">repositorio exercicio Spring + GitHub Actions</a></p>
 
-<h3>Dependabot</h3>
-<p></p>
+<h3>GitHub Dependabot</h3>
+<p>Ajuda a gerenciar as dependencias em um projeto de software. Dependabot checa as dependencias do projeto e cria pull requests quando uma nova versao 
+esta disponivel. </p>
 
 <h2>Comando Linux:</h2>
 <p>
