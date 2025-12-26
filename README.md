@@ -11,6 +11,7 @@
 <h3>GitHub Dependabot</h3>
 <p>Ajuda a gerenciar as dependencias em um projeto de software. Dependabot checa as dependencias do projeto e cria pull requests quando uma nova versao 
 esta disponivel. </p>
+<p>Dentro do mundo DevOps a automacao e um dos focos com isso o Dependabot pode auxiliar no processo, criando pull requets para corrigir vulnerabilidades.</p>
 
 <h2>Comando Linux:</h2>
 <p>
